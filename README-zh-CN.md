@@ -152,3 +152,4 @@ OCR 操作的主结构体。
 - [原始 Python 库](https://github.com/huashi666/ddddocr)
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [Rust 语言](https://www.rust-lang.org/)
+- [English Documentation / 英文文档](README.md)

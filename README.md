@@ -141,3 +141,4 @@ This library is designed for captcha difficulty testing and educational purposes
 - [Original Python Library](https://github.com/huashi666/ddddocr)
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [Rust Language](https://www.rust-lang.org/)
+- [中文文档 / 中文文档](README-zh-CN.md)
