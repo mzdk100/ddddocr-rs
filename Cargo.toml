@@ -1,0 +1,20 @@
+[package]
+name = "ddddocr"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.92.0"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/mzdk100/ddddocr-rs"
+description = "Rust implementation of OCR for captcha recognition, ported from Python ddddocr"
+keywords = ["ocr", "captcha", "recognition", "onnx", "ml"]
+categories = ["computer-vision", "api-bindings", "science"]
+authors = ["SmileSky <mzdk100@foxmail.com>"]
+
+[dependencies]
+ort = "2.0.0-rc.11"
+image = "0.25.9"
+thiserror = "2.0.17"
+
+[dev-dependencies]
+tokio = {version = "1.49.0", features = ["fs", "macros", "rt-multi-thread"]}
